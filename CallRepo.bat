@@ -1,1 +1,1 @@
-call NewCloneRepos.bat
+call NewClone.bat
