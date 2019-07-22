@@ -1,1 +1,1 @@
-call NewClone.bat
+call D:\test\NewClone.bat
